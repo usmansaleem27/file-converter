@@ -1,10 +1,13 @@
 import './App.css';
+import Converter from './Components/Converter/Converter';
+import Navbar from './Components/Navbar/Navbar';
 
 function App() {
   return (
-    <div className="">
-    File Converter
-    </div>
+    <>
+    <Navbar/>
+    <Converter/>
+    </>
   );
 }
 

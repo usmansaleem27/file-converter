@@ -1,0 +1,22 @@
+.premium_button{
+    background-color: #F47458;
+    border: none;
+    color: white;
+    opacity: 100%;
+    border-radius: 20px;
+    font-family: 'Poppins';
+
+}
+.nav_item_fs a{
+    font-size: 1.1rem;
+    color: black;
+    font-weight: 400;
+    font-family: 'Poppins';
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.plomx_logo{
+    width: 153px;
+    height: 118px;
+}

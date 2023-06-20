@@ -1,0 +1,72 @@
+/* .home_page_height{
+     height: 90vh; 
+} */
+.cloud_file_converter{
+    font-size: 2.8rem;
+    color: black;
+    font-weight: 600;
+    font-style: normal;
+    font-family: 'Poppins';
+}
+.file_converter_description{
+    color: rgb(140, 141, 143);
+    font-size: 1.1rem;
+    font-style: normal;
+    font-weight: 400;
+    font-family: 'Poppins';
+}
+.image_upload_click {
+    background-color: #FCF6F5;
+    color: white;
+    height: 250px;
+    border-radius: 10px;
+    width: 100%;
+    border: 2px dashed #F47458;
+  }
+  .select_files_text {
+    font-family: "Poppins";
+    font-size: 1.3rem;
+    font-weight: 400;
+    color: #F47458;
+  }
+  .selected_file_preview{
+    border: 1px solid rgb(204, 203, 203);
+    border-radius: 5px;
+  }
+  .file_name_preview{
+    font-size: 1.05rem;
+    color: rgb(115, 115, 113);
+    font-weight: 400;
+    font-family: "Poppins";
+    width: 270px;
+  white-space: nowrap;
+  overflow: hidden !important;
+  text-overflow: ellipsis;
+  }
+  .file_name{
+    font-size: 1.05rem;
+    color: rgb(115, 115, 113);
+    font-weight: 400;
+    font-family: "Poppins";
+  }
+  .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: #F47458 !important;
+    border-radius: 3px !important;
+  }
+  .css-eglki6-MuiLinearProgress-root{
+    background-color: #FCF6F5 !important;
+    border-radius: 3px !important;
+  }
+  .download_btn{
+    background-color: #F47458;
+    border: none;
+    color: white;
+    border-radius: 30px;
+  }
+/********************* Media Queries *************************/
+@media only screen and (max-width:5000px) and (min-width:992px){
+    .file_converter_description{
+        margin-left: 240px;
+        margin-right: 240px;
+    }
+}
