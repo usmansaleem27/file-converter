@@ -63,6 +63,10 @@
     color: white;
     border-radius: 30px;
   }
+  .add_more_files{
+    color: #797877;
+    font-weight: 500 !important;
+  }
 /********************* Media Queries *************************/
 @media only screen and (max-width:5000px) and (min-width:992px){
     .file_converter_description{

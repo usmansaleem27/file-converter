@@ -3,6 +3,7 @@ import "./Converter.css"
 import FilesUploadImage from "../../images/filesuploadimg.png";
 import { TfiReload } from 'react-icons/tfi';
 import { AiOutlineCloudDownload } from 'react-icons/ai';
+import { AiOutlinePlus } from 'react-icons/ai';
 
 import Box from '@mui/material/Box';
 import LinearProgress from '@mui/material/LinearProgress';
@@ -103,6 +104,7 @@ const Converter = () => {
                                                  handleChangeCross={handleChangeCross}/>
                                                 </div>
                                             ))}
+                                         
                                         </div>
                                         <div className='col-12'>
                                             <div className='d-flex justify-content-end mt-4 mb-4'>

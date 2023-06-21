@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Navbar.css"
 import { AiFillStar } from 'react-icons/ai';
-import plomXLogo from "../../images/PLOMX LOGO CHANGES orange color.png"
+import plomXLogo from "../../images/PLOMX LOGO CHANGES orange color (2)-fotor-20230620175551.png"
 const Navbar = () => {
   return (
     <div className='container'>
